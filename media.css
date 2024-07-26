@@ -1,0 +1,54 @@
+/* @media (max-width: 768px) {
+  body {
+    padding: 10px;
+  }
+
+  h1 {
+    font-size: 2rem;
+    margin: 10px 0;
+  }
+
+  .rules-container {
+    padding: 10px;
+    max-width: 400px;
+    margin-right: 20px;
+    margin-left: 20px;
+    font-size: 1rem;
+  }
+
+  .summary {
+    font-size: 1.6rem;
+  }
+
+  .summary::before {
+    font-size: 1.6rem;
+    margin-right: 15px;
+    margin-left: 6px;
+  }
+
+  .btn-container {
+    justify-content: space-between;
+    max-width: 400px;
+    margin: 0 auto;
+  }
+
+  .score-container {
+    font-size: 2.3rem;
+  }
+
+  .rules-container p {
+    font-size: 0.9rem;
+    margin: 2px 0 2px 8px;
+  }
+
+  .check {
+    margin-right: 8px;
+    height: 1rem;
+    width: 1rem;
+    line-height: 1rem;
+  }
+
+  .rule {
+    margin-top: 2px;
+  }
+} */
